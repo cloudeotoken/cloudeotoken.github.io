@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Get your Slack-invite here](https://publicslack.com/slacks/cloudeocoin/invites/new)
 
-[Slack](https://publicslack.com/slacks/cloudeocoin/invites/new).
+
 
